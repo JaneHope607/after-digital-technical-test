@@ -1,4 +1,4 @@
-<template>
+<template lang="html">
     <header class="site-header">
          <div class="site-header__wrapper">
             <img class="site-logo" alt="After Digital logo" src="@/assets/ad_logo.png">

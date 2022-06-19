@@ -1,0 +1,549 @@
+{
+    "data": {
+    "getEvents": [
+    {
+    "id": "315",
+    "event_ref": "119663",
+    "production_ref": "119662",
+    "season_ref": "226",
+    "series_id": null,
+    "venue_id": 9,
+    "production_title": "LPO 22/05/06",
+    "season_title": "LPO 21/22",
+    "title": "The Song of the Earth",
+    "subtitle": null,
+    "first_date": "2022-05-06T00:00:00.000Z",
+    "last_date": "2022-05-06T00:00:00.000Z",
+    "publish_up": null,
+    "publish_down": null,
+    "alias": "the-song-of-the-earth",
+    "availability": 1924,
+    "limited_availability": 20,
+    "type": "event",
+    "price": null,
+    "previews": null,
+    "running_time": null,
+    "by_line": null,
+    "booking_info": null,
+    "booking_link": null,
+    "preview_info": null,
+    "hash_tag": null,
+    "short_description": "<p>Edward Gardner brings the season to a close with Harrison Birtwistle's<em> Deep Time</em> and Mahler's<em> Das Lied von der Erde</em>, with mezzo-soprano Magdalena Kožen&aacute; and tenor Andrew Staples.&nbsp;</p>",
+    "description": "<p>Mahler knew that his end was near when he wrote <em>Das Lied von der Erde</em>, and he was determined to savour every minute that remained to him. Half symphony, half song-cycle, <em>Das Lied</em> is a song of the sweetness and wonder of life, distilled into some of the most exquisite music Mahler ever wrote. Meanwhile, when the late Harrison Birtwistle's <em>Deep Time</em> was premiered in 2017, critics hailed this &lsquo;immensely powerful&rsquo; work as an instant classic. Time heals, as well as transforms: Edward Gardner brings the season to a close with a vision of eternal truth and limitless beauty.</p>\r\n<p>Generously supported by the LPO International Board of Governors</p>",
+    "additional": "<p style=\"color: #a5064c; font-size: 1.375rem;\">Additional Information</p>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Book more, pay less</strong>- Save up to 30% on full price tickets at the Southbank Centre, London, with our <strong><a title=\"Series discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#series\" target=\"_blank\" rel=\"noopener\">multi-buy series discounts</a></strong>.</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Bring a group</strong> - <strong><a title=\"Group discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#group\">book 10 or more seats</a></strong> and access discounted tickets for our Southbank Centre concerts.&nbsp;</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\">Find out more <strong><a title=\"Ways to save\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html\">ways to save</a></strong>.</h3>",
+    "credits": null,
+    "access": null,
+    "miscellaneous": null,
+    "images": {
+    "cta": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623945081-Magdalena Kozena_c_Julia Wesely-cta.jpg",
+    "large": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623945081-Magdalena Kozena_c_Julia Wesely-large.jpg",
+    "small": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623945081-Magdalena Kozena_c_Julia Wesely-small.jpg",
+    "banner": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623945081-Magdalena Kozena_c_Julia Wesely-banner.jpg",
+    "medium": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623945081-Magdalena Kozena_c_Julia Wesely-medium.jpg",
+    "original": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/315/1623945081-Magdalena Kozena_c_Julia Wesely.jpg",
+    "portrait": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623945081-Magdalena Kozena_c_Julia Wesely-portrait.jpg"
+    },
+    "galleries": {
+    "galleries": [
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623944886-Magdalena Kozena_c_Julia Wesely.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623944901-Edward Gardner conductor © Benjamin Ealovega.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623944977-Staples c Andrew Staples 2.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1623945057-LPO_SILENT STUDIO_RENEGADE_WICKS_oct03_0386.jpg"
+    ]
+    },
+    "videos": null,
+    "sponsors": [
+    {
+    "name": "Generously supported by the LPO International Board of Governors",
+    "level": "Primary"
+    }
+    ],
+    "attachments": null,
+    "extra": {
+    "repertoire": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Harrison Birtwistle <span style=\"font-weight: 400;\">Deep Time</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Mahler <span style=\"font-weight: 400;\">Das Lied von der Erde</span></h2>",
+    "brochure_issuu": null,
+    "spotify_playlist": null,
+    "development_product": true,
+    "ranking_friends": null,
+    "ranking_contemporaries": null,
+    "brochure_text": null,
+    "artists_custom": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Edward Gardner <span style=\"font-weight: 400;\">conductor</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Magdalena Kožen&aacute; <span style=\"font-weight: 400;\">mezzo-soprano</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Andrew Staples <span style=\"font-weight: 400;\">tenor</span></h2>",
+    "loyalty_scheme_override": null,
+    "loyalty_scheme_override_end_date": null,
+    "loyalty_scheme_override_start_date": null
+    },
+    "booking_fee": null,
+    "on_sale": true,
+    "published": true,
+    "private": false,
+    "featured": false,
+    "general_admission": false,
+    "instances": [
+    {
+    "id": "1637",
+    "title": "LPO 06/05/22",
+    "date_time": "2022-05-06T18:30:00.000Z"
+    }
+    ],
+    "series": null,
+    "venue": {
+    "id": "9",
+    "title": "Royal Festival Hall"
+    },
+    "artists": []
+    },
+    {
+    "id": "461",
+    "event_ref": "122307",
+    "production_ref": "122300",
+    "season_ref": "236",
+    "series_id": null,
+    "venue_id": 3,
+    "production_title": "LPO 22/09/16",
+    "season_title": "LPO 22/23",
+    "title": "Offenbach’s La Princesse de Trébizonde",
+    "subtitle": null,
+    "first_date": "2022-09-16T00:00:00.000Z",
+    "last_date": "2022-09-16T00:00:00.000Z",
+    "publish_up": null,
+    "publish_down": null,
+    "alias": "offenbachs-la-princesse-de-trebizonde",
+    "availability": 392,
+    "limited_availability": 20,
+    "type": "event",
+    "price": null,
+    "previews": null,
+    "running_time": null,
+    "by_line": null,
+    "booking_info": null,
+    "booking_link": null,
+    "preview_info": null,
+    "hash_tag": null,
+    "short_description": "<p>We join forces with Opera Rara for a rare revival of Offenbach&rsquo;s 1869 comic opera <em>La Princesse de Tr&eacute;bizonde</em>.</p>",
+    "description": "<p>A travelling funfair, a lovesick Prince, a lottery ticket and a beautiful young woman pretending to be a waxwork &hellip; what could possibly go wrong? Offenbach&rsquo;s 1869 comic opera <em>La Princesse de Tr&eacute;bizonde</em> is fizzy, funny, brimming with melody and topped off with a delicious little spritz of Gallic sexiness &ndash; pure delight, in other words, fresh from the sparkling imagination of the man who invented operetta. We don&rsquo;t hear it enough, but Opera Rara is out to put that right, and we&rsquo;re delighted to take part in this rare revival &ndash; with ex-ENO Music Director Paul Daniel conducting a hand-picked cast.</p>",
+    "additional": "<h3>Additional Information</h3>\r\n<section class=\"event-description mb-4\" data-v-279a9433=\"\">\r\n<p>Please note that series discounts do not apply to this event.</p>\r\n</section>",
+    "credits": null,
+    "access": null,
+    "miscellaneous": null,
+    "images": {
+    "cta": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647957974-mezzo-soprano Katia Ledoux c Wolf-Dieter Grabner-cta.png",
+    "large": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647957974-mezzo-soprano Katia Ledoux c Wolf-Dieter Grabner-large.png",
+    "small": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647957974-mezzo-soprano Katia Ledoux c Wolf-Dieter Grabner-small.png",
+    "banner": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647957974-mezzo-soprano Katia Ledoux c Wolf-Dieter Grabner-banner.png",
+    "medium": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647957974-mezzo-soprano Katia Ledoux c Wolf-Dieter Grabner-medium.png",
+    "original": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/461/1647957974-mezzo-soprano Katia Ledoux c Wolf-Dieter Grabner.png",
+    "portrait": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647957974-mezzo-soprano Katia Ledoux c Wolf-Dieter Grabner-portrait.png"
+    },
+    "galleries": {
+    "galleries": [
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647958238-tenor Josh Lovell.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647958239-mezzo-soprano Virginie Verrez © Dario Acosta.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647958239-mezzo-soprano Katia Ledoux c Wolf-Dieter Grabner (1).png",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1647958240-tenor Christophe Mortagne.jpg"
+    ]
+    },
+    "videos": null,
+    "sponsors": [
+    {
+    "logo": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/461/1647363337-OperaRara_logo_100px.jpg",
+    "name": "In association with Opera Rara",
+    "level": "Primary"
+    }
+    ],
+    "attachments": null,
+    "extra": {
+    "repertoire": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Offenbach <span style=\"font-weight: 400;\"> La Princesse de Tr&eacute;bizonde</span></h2>\r\n<h2>&nbsp;</h2>",
+    "brochure_issuu": null,
+    "spotify_playlist": null,
+    "development_product": null,
+    "ranking_friends": null,
+    "ranking_contemporaries": null,
+    "brochure_text": null,
+    "artists_custom": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Paul Daniel<span style=\"font-weight: 400;\"> conductor</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Josh Lovell<span style=\"font-weight: 400;\"> Prince Casimir</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Christophe Gay<span style=\"font-weight: 400;\"> Cabriolo</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Christophe Mortagne<span style=\"font-weight: 400;\"> Tremolini</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Lo&iuml;c F&eacute;lix<span style=\"font-weight: 400;\"> Sparadrap</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Katia Ledoux<span style=\"font-weight: 400;\"> Paola</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Anne-Catherine Gillet<span style=\"font-weight: 400;\"> Zanetta</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Virginie Verrez<span style=\"font-weight: 400;\"> Prince Raphael</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Antoinette Dennefeld<span style=\"font-weight: 400;\"> R&eacute;gina</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Opera Rara Chorus</h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">London Philharmonic Orchestra</h2>\r\n<h2>&nbsp;</h2>",
+    "loyalty_scheme_override": null,
+    "loyalty_scheme_override_end_date": null,
+    "loyalty_scheme_override_start_date": null
+    },
+    "booking_fee": null,
+    "on_sale": true,
+    "published": true,
+    "private": false,
+    "featured": false,
+    "general_admission": false,
+    "instances": [
+    {
+    "id": "2689",
+    "title": "LPO 16/09/22",
+    "date_time": "2022-09-16T18:30:00.000Z"
+    }
+    ],
+    "series": null,
+    "venue": {
+    "id": "3",
+    "title": "Queen Elizabeth Hall"
+    },
+    "artists": []
+    },
+    {
+    "id": "462",
+    "event_ref": "122308",
+    "production_ref": "122168",
+    "season_ref": "236",
+    "series_id": null,
+    "venue_id": 9,
+    "production_title": "LPO 22/09/24",
+    "season_title": "LPO 22/23",
+    "title": "Gardner conducts Gurrelieder",
+    "subtitle": null,
+    "first_date": "2022-09-24T00:00:00.000Z",
+    "last_date": "2022-09-24T00:00:00.000Z",
+    "publish_up": null,
+    "publish_down": null,
+    "alias": "gardner_conducts_gurrelieder",
+    "availability": 1012,
+    "limited_availability": 20,
+    "type": "event",
+    "price": null,
+    "previews": null,
+    "running_time": null,
+    "by_line": null,
+    "booking_info": null,
+    "booking_link": null,
+    "preview_info": null,
+    "hash_tag": null,
+    "short_description": "<p>One of the most ambitious choral works of all time, written for a colossal orchestra and filled with music of intense emotion and breathtaking beauty.&nbsp;</p>",
+    "description": "<p>&lsquo;To the city of Gurre you are commanded! Today, the dead ride forth!&rsquo; When Arnold Schoenberg retold the old Danish legend of Gurre Castle, he didn&rsquo;t just create a &gt;em&gt;Game of Thrones-like musical saga of love, death and the supernatural. <em>Gurrelieder</em> is quite simply one of the most ambitious choral works of all time, written for a colossal orchestra and filled with music of intense emotion and breathtaking beauty. Every performance is an event, and to open our new season Edward Gardner has brought together two great choruses and a world-class cast. If you love Strauss or Mahler, you need to hear <em>Gurrelieder</em>: this should be spectacular.</p>\r\n<p><strong>Please note start time is 7pm.</strong></p>\r\n<p>Sung in German with English surtitles</p>",
+    "additional": "<p style=\"color: #a5064c; font-size: 1.375rem;\">Additional Information</p>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Book more, pay less</strong>- Save up to 30% on full price tickets at the Southbank Centre, London, with our <strong><a title=\"Series discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#series\" target=\"_blank\" rel=\"noopener\">multi-buy series discounts</a></strong>.</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Bring a group</strong> - <strong><a title=\"Group discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#group\">book 10 or more seats</a></strong> and access discounted tickets for our Southbank Centre concerts.&nbsp;</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\">Find out more <strong><a title=\"Ways to save\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html\">ways to save</a></strong>.</h3>",
+    "credits": null,
+    "access": null,
+    "miscellaneous": null,
+    "images": {
+    "cta": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918505-Soprano Lise Lindstrom © Rosie Hardy-cta.jpg",
+    "large": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918505-Soprano Lise Lindstrom © Rosie Hardy-large.jpg",
+    "small": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918505-Soprano Lise Lindstrom © Rosie Hardy-small.jpg",
+    "banner": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918505-Soprano Lise Lindstrom © Rosie Hardy-banner.jpg",
+    "medium": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918505-Soprano Lise Lindstrom © Rosie Hardy-medium.jpg",
+    "original": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/462/1646918505-Soprano Lise Lindstrom © Rosie Hardy.jpg",
+    "portrait": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918505-Soprano Lise Lindstrom © Rosie Hardy-portrait.jpg"
+    },
+    "galleries": {
+    "galleries": [
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918833-Conductor Ed Gardner © Benjamin Ealovega.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918834-Soprano Lise Lindstrom © Rosie Hardy.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646918834-Soprano Karen Cargill © Nadine Boyd.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649840407-LPO RFH 061121 1049 with Ed.jpg"
+    ]
+    },
+    "videos": null,
+    "sponsors": [
+    {
+    "level": "Primary"
+    }
+    ],
+    "attachments": null,
+    "extra": {
+    "repertoire": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Schoenberg <span style=\"font-weight: 400;\">Gurrelieder</span></h2>",
+    "brochure_issuu": null,
+    "spotify_playlist": null,
+    "development_product": null,
+    "ranking_friends": null,
+    "ranking_contemporaries": null,
+    "brochure_text": null,
+    "artists_custom": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Edward Gardner <span style=\"font-weight: 400;\">conductor</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Lise Lindstrom <span style=\"font-weight: 400;\">Tove</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Karen Cargill<span style=\"font-weight: 400;\"> Wood-Dove</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">David Butt Philip <span style=\"font-weight: 400;\">Waldemar</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Robert Murray<span style=\"font-weight: 400;\"> Klaus the Fool</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">James Creswell <span style=\"font-weight: 400;\">Peasant</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">London Philharmonic Choir</h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Members of the London Symphony Chorus</h2>",
+    "loyalty_scheme_override": null,
+    "loyalty_scheme_override_end_date": null,
+    "loyalty_scheme_override_start_date": null
+    },
+    "booking_fee": null,
+    "on_sale": true,
+    "published": true,
+    "private": false,
+    "featured": false,
+    "general_admission": false,
+    "instances": [
+    {
+    "id": "2690",
+    "title": "LPO 24/09/22",
+    "date_time": "2022-09-24T18:00:00.000Z"
+    }
+    ],
+    "series": null,
+    "venue": {
+    "id": "9",
+    "title": "Royal Festival Hall"
+    },
+    "artists": []
+    },
+    {
+    "id": "463",
+    "event_ref": "122309",
+    "production_ref": "122169",
+    "season_ref": "236",
+    "series_id": null,
+    "venue_id": 9,
+    "production_title": "LPO 22/09/28",
+    "season_title": "LPO 22/23",
+    "title": "Exiles and Dreamers",
+    "subtitle": null,
+    "first_date": "2022-09-28T00:00:00.000Z",
+    "last_date": "2022-09-28T00:00:00.000Z",
+    "publish_up": null,
+    "publish_down": null,
+    "alias": "exiles-and-dreamers",
+    "availability": 1289,
+    "limited_availability": 20,
+    "type": "event",
+    "price": null,
+    "previews": null,
+    "running_time": null,
+    "by_line": null,
+    "booking_info": null,
+    "booking_link": null,
+    "preview_info": null,
+    "hash_tag": null,
+    "short_description": "<p>Launching our season-long exploration of the music of identity and displacement, Edward Gardner conducts music drenched in longing, in hope, and in the boundless horizons of the human heart.</p>",
+    "description": "<p>A place to call home &hellip; for Anton&iacute;n Dvoř&aacute;k, inspiration came from the culture and aspirations of his native Bohemia. Henri Dutilleux took the words of exiles and dreamers, and transformed their hopes and sorrows into ravishing tenderness and beautiful sounds, while George Walker&rsquo;s Pulitzer Prize-winning <em>Lilacs</em> gives Walt Whitman&rsquo;s elegy for Abraham Lincoln a resonance that gains extra power from his own experience as an African American. Launching our season-long exploration of the music of identity and displacement, Edward Gardner conducts music drenched in longing, in hope, and (like Tchaikovsky&rsquo;s impassioned Overture) in the boundless horizons of the human heart.</p>",
+    "additional": "<p style=\"color: #a5064c; font-size: 1.375rem;\">Additional Information</p>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Book more, pay less</strong>- Save up to 30% on full price tickets at the Southbank Centre, London, with our <strong><a title=\"Series discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#series\" target=\"_blank\" rel=\"noopener\">multi-buy series discounts</a></strong>.</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Bring a group</strong> - <strong><a title=\"Group discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#group\">book 10 or more seats</a></strong> and access discounted tickets for our Southbank Centre concerts.&nbsp;</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\">Find out more <strong><a title=\"Ways to save\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html\">ways to save</a></strong>.</h3>",
+    "credits": null,
+    "access": null,
+    "miscellaneous": null,
+    "images": {
+    "cta": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646919570-Soprano Jennifer France-cta.jpg",
+    "large": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646919570-Soprano Jennifer France-large.jpg",
+    "small": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646919570-Soprano Jennifer France-small.jpg",
+    "banner": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646919570-Soprano Jennifer France-banner.jpg",
+    "medium": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646919570-Soprano Jennifer France-medium.jpg",
+    "original": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/463/1646919570-Soprano Jennifer France.jpg",
+    "portrait": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646919570-Soprano Jennifer France-portrait.jpg"
+    },
+    "galleries": {
+    "galleries": [
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646919649-Soprano Jennifer France.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646919650-Conductor Ed Gardner © Benjamin Ealovega.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649840437-Bassoon section Mark Allan (c).jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649840438-LPO RFH 061121 1049 with Ed.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649842316-lpo_cover_final_RT2.jpg"
+    ]
+    },
+    "videos": null,
+    "sponsors": [
+    {
+    "logo": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/463/1649166168-PTCH smaller.jpg",
+    "level": "Primary"
+    }
+    ],
+    "attachments": null,
+    "extra": {
+    "repertoire": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Tchaikovsky <span style=\"font-weight: 400;\">Romeo and Juliet (Fantasy Overture)</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Dutilleux <span style=\"font-weight: 400;\">Correspondances</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Walker <span style=\"font-weight: 400;\">Lilacs</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Dvoř&aacute;k <span style=\"font-weight: 400;\">Symphony No. 7</span></h2>",
+    "brochure_issuu": null,
+    "spotify_playlist": null,
+    "development_product": null,
+    "ranking_friends": null,
+    "ranking_contemporaries": null,
+    "brochure_text": null,
+    "artists_custom": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Edward Gardner<span style=\"font-weight: 400;\"> conductor</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Jennifer France <span style=\"font-weight: 400;\">soprano</span></h2>",
+    "loyalty_scheme_override": null,
+    "loyalty_scheme_override_end_date": null,
+    "loyalty_scheme_override_start_date": null
+    },
+    "booking_fee": null,
+    "on_sale": true,
+    "published": true,
+    "private": false,
+    "featured": false,
+    "general_admission": false,
+    "instances": [
+    {
+    "id": "2691",
+    "title": "LPO 28/09/22",
+    "date_time": "2022-09-28T18:30:00.000Z"
+    }
+    ],
+    "series": null,
+    "venue": {
+    "id": "9",
+    "title": "Royal Festival Hall"
+    },
+    "artists": []
+    },
+    {
+    "id": "464",
+    "event_ref": "122310",
+    "production_ref": "122170",
+    "season_ref": "236",
+    "series_id": null,
+    "venue_id": 9,
+    "production_title": "LPO 22/10/01",
+    "season_title": "LPO 22/23",
+    "title": "Grand Passions, High Ideals",
+    "subtitle": null,
+    "first_date": "2022-10-01T00:00:00.000Z",
+    "last_date": "2022-10-01T00:00:00.000Z",
+    "publish_up": null,
+    "publish_down": null,
+    "alias": "grand-passions-high-ideals",
+    "availability": 1290,
+    "limited_availability": 20,
+    "type": "event",
+    "price": null,
+    "previews": null,
+    "running_time": null,
+    "by_line": null,
+    "booking_info": null,
+    "booking_link": null,
+    "preview_info": null,
+    "hash_tag": null,
+    "short_description": "<p>Mendelssohn's symphonic response to the reformation, his Fifth Symphony, alongside the premiere of Vijay Iyer's Human Archipelago - a cello concerto based on refugee testimonies, performed by Inbal Segev.</p>",
+    "description": "<p>Only the young Felix Mendelssohn could have taken a subject like the Reformation and turned it into music as radiant and as stirring as his Fifth Symphony. And perhaps only Vijay Iyer &ndash; described by <em>The New York Times</em> as &lsquo;social conscience, multimedia collaborator, rhapsodist and multicultural gateway&rsquo; &ndash; could take the refugee testimonies of <em>Human Archipelago</em> and transform them into a cello concerto like no other. Music can do that, and Edward Gardner begins with the Overture to Wagner&rsquo;s <em>Tannh&auml;user</em>: an opera whose sensuality shocked 19th-century audiences, by a composer who was forced into exile for his political ideals.</p>",
+    "additional": "<p style=\"color: #a5064c; font-size: 1.375rem;\">Additional Information</p>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Book more, pay less</strong>- Save up to 30% on full price tickets at the Southbank Centre, London, with our <strong><a title=\"Series discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#series\" target=\"_blank\" rel=\"noopener\">multi-buy series discounts</a></strong>.</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Bring a group</strong> - <strong><a title=\"Group discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#group\">book 10 or more seats</a></strong> and access discounted tickets for our Southbank Centre concerts.&nbsp;</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\">Find out more <strong><a title=\"Ways to save\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html\">ways to save</a></strong>.</h3>",
+    "credits": null,
+    "access": null,
+    "miscellaneous": null,
+    "images": {
+    "cta": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646920205-Cellist Inbal Segev © Grant Legan-cta.jpg",
+    "large": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646920205-Cellist Inbal Segev © Grant Legan-large.jpg",
+    "small": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646920205-Cellist Inbal Segev © Grant Legan-small.jpg",
+    "banner": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646920205-Cellist Inbal Segev © Grant Legan-banner.jpg",
+    "medium": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646920205-Cellist Inbal Segev © Grant Legan-medium.jpg",
+    "original": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/464/1646920205-Cellist Inbal Segev © Grant Legan.jpg",
+    "portrait": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646920205-Cellist Inbal Segev © Grant Legan-portrait.jpg"
+    },
+    "galleries": {
+    "galleries": [
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646920246-Cellist Inbal Segev © Grant Legan.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1646920246-Conductor Ed Gardner © Benjamin Ealovega.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649842352-LPO RFH 061121 1049 with Ed.jpg",
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649842439-lpo_mountains2_RT.jpg"
+    ]
+    },
+    "videos": null,
+    "sponsors": [
+    {
+    "logo": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/464/1649166191-PTCH smaller.jpg",
+    "level": "Primary"
+    }
+    ],
+    "attachments": null,
+    "extra": {
+    "repertoire": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Wagner <span style=\"font-weight: 400;\">Overture, Tannh&auml;user</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Vijay Iyer <span style=\"font-weight: 400;\">Human Archipelago (world premiere)</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Mendelssohn <span style=\"font-weight: 400;\">Symphony No. 5 (Reformation)</span></h2>",
+    "brochure_issuu": null,
+    "spotify_playlist": null,
+    "development_product": null,
+    "ranking_friends": null,
+    "ranking_contemporaries": null,
+    "brochure_text": null,
+    "artists_custom": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Edward Gardner <span style=\"font-weight: 400;\">conductor</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Inbal Segev<span style=\"font-weight: 400;\"> cello</span></h2>",
+    "loyalty_scheme_override": null,
+    "loyalty_scheme_override_end_date": null,
+    "loyalty_scheme_override_start_date": null
+    },
+    "booking_fee": null,
+    "on_sale": true,
+    "published": true,
+    "private": false,
+    "featured": false,
+    "general_admission": false,
+    "instances": [
+    {
+    "id": "2692",
+    "title": "LPO 01/10/22",
+    "date_time": "2022-10-01T18:30:00.000Z"
+    }
+    ],
+    "series": null,
+    "venue": {
+    "id": "9",
+    "title": "Royal Festival Hall"
+    },
+    "artists": []
+    },
+    {
+    "id": "465",
+    "event_ref": "122311",
+    "production_ref": "122301",
+    "season_ref": "236",
+    "series_id": null,
+    "venue_id": 9,
+    "production_title": "LPO 22/10/02",
+    "season_title": "LPO 22/23",
+    "title": "FUNharmonics: The Young Person’s Guide to the Orchestra",
+    "subtitle": null,
+    "first_date": "2022-10-02T00:00:00.000Z",
+    "last_date": "2022-10-02T00:00:00.000Z",
+    "publish_up": null,
+    "publish_down": null,
+    "alias": "funharmonics-young-persons-guide",
+    "availability": 1352,
+    "limited_availability": 20,
+    "type": "event",
+    "price": null,
+    "previews": null,
+    "running_time": null,
+    "by_line": null,
+    "booking_info": null,
+    "booking_link": null,
+    "preview_info": null,
+    "hash_tag": null,
+    "short_description": "<p>This Funharmonics concert we meet the instruments of the woodwind, brass, string and percussion families and hear how they fit together to create that distinctive, magical orchestral sound.</p>",
+    "description": "<p>Join the LPO for a dazzling introduction to the sounds of the orchestra, through Benjamin Britten&rsquo;s classic work. Meet the instruments of the woodwind, brass, string and percussion families and hear how they fit together to create that distinctive, magical orchestral sound. Conducted by our Principal Conductor Edward Gardner and presented by Rachel Leach.</p>",
+    "additional": "<p style=\"color: #a5064c; font-size: 1.375rem;\">Additional Information</p>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Book more, pay less</strong>- Save up to 30% on full price tickets at the Southbank Centre, London, with our <strong><a title=\"Series discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#series\" target=\"_blank\" rel=\"noopener\">multi-buy series discounts</a></strong>.</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\"><strong>Bring a group</strong> - <strong><a title=\"Group discounts\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html#group\">book 10 or more seats</a></strong> and access discounted tickets for our Southbank Centre concerts.&nbsp;</h3>\r\n<h3 style=\"font-size: .8125rem; font-weight: 400; color: black;\">Find out more <strong><a title=\"Ways to save\" href=\"https://www.lpo.org.uk/what-s-on/ways-to-save.html\">ways to save</a></strong>.</h3>",
+    "credits": null,
+    "access": null,
+    "miscellaneous": null,
+    "images": {
+    "cta": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649941751-221002_funharmonics2022-cta.jpg",
+    "large": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649941751-221002_funharmonics2022-large.jpg",
+    "small": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649941751-221002_funharmonics2022-small.jpg",
+    "banner": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649941751-221002_funharmonics2022-banner.jpg",
+    "medium": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649941751-221002_funharmonics2022-medium.jpg",
+    "original": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/events/465/1649941751-221002_funharmonics2022.jpg",
+    "portrait": "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649941751-221002_funharmonics2022-portrait.jpg"
+    },
+    "galleries": {
+    "galleries": [
+    "https://skyway-eu-cms-assets.s3.eu-west-1.amazonaws.com/tickets.lpo.org.uk/images/1649941744-221002_funharmonics2022.jpg"
+    ]
+    },
+    "videos": null,
+    "sponsors": [
+    {
+    "level": "Primary"
+    }
+    ],
+    "attachments": null,
+    "extra": {
+    "repertoire": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Britten <span style=\"font-weight: 400;\"> The Young Person's Guide to the Orchestra</span></h2>",
+    "brochure_issuu": null,
+    "spotify_playlist": null,
+    "development_product": null,
+    "ranking_friends": null,
+    "ranking_contemporaries": null,
+    "brochure_text": null,
+    "artists_custom": "<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Edward Gardner <span style=\"font-weight: 400;\">conductor</span></h2>\r\n<h2 style=\"font-weight: 600; font-size: .8125rem; color: black; line-height: 0;\">Rachel Leach<span style=\"font-weight: 400;\"> presenter</span></h2>",
+    "loyalty_scheme_override": null,
+    "loyalty_scheme_override_end_date": null,
+    "loyalty_scheme_override_start_date": null
+    },
+    "booking_fee": null,
+    "on_sale": true,
+    "published": true,
+    "private": false,
+    "featured": false,
+    "general_admission": false,
+    "instances": [
+    {
+    "id": "2693",
+    "title": "LPO 02/10/22",
+    "date_time": "2022-10-02T11:00:00.000Z"
+    }
+    ],
+    "series": null,
+    "venue": {
+    "id": "9",
+    "title": "Royal Festival Hall"
+    },
+    "artists": []
+    }
+    ]
+    }
+}
