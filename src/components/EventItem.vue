@@ -8,6 +8,9 @@
 			<p class="event-date">{{ formatDateTime(event.instances[0].date_time) }}</p>
 			<div class="event-description" v-html="event.short_description"></div>
 		</div>
+		<div class="book-button">
+			<button v-on:click="">Book now</button>
+		</div>
 	</div>
 </template>
 
@@ -32,7 +35,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '@/assets/styles/variables';
+@import '@/assets/styles/variables.scss';
 .event {
 	flex-basis: 32%;
 	background-color: $white;
@@ -51,8 +54,6 @@ export default {
 
 .details {
 	margin: 20px;
-	display: flex;
-	flex-wrap: wrap;
 }
 
 .event-title, .event-date {
@@ -61,6 +62,22 @@ export default {
 
 .event-description {
 	text-align: justify;
+}
+
+.book-button { 
+	text-align: center;
+
+	button {
+		background-color: $button-blue;
+		align-items: center;
+		height: 60px;
+		width: 80%;
+		text-align: center;
+		color: $white;
+		font-weight: bold;
+		border-radius: 3px;
+		border: none;
+	}
 }
 
 </style>
