@@ -1,24 +1,22 @@
 <template>
   <app-header />
   <router-view/>
-  <event-list />
-  <event-item :eventsData="events" />
+  <event-list :events="events"/>
 </template>
 
 <script>
 
 import AppHeader from "@/components/AppHeader.vue";
-import EventItem from "@/components/EventItem.vue";
 import EventList from "@/components/EventList.vue"
 
 import eventsData from "@/events.json";
 let events = eventsData.data.getEvents
 
 export default {
+  name: "app",
   components: {
     'app-header': AppHeader,
     'event-list': EventList,
-    'event-item': EventItem
   },
 
   data () {

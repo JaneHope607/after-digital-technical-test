@@ -1,12 +1,10 @@
 <template lang="html">
-	<div id="events">
-        <div class="event-wrapper" v-if="events.length">
-            <event-item
-                v-for="(event, index) in events"
-                :event="event"
-                :key="index">
-            </event-item>
-        </div>
+	<div class="events-wrapper" v-if="events.length">
+        <event-item
+            v-for="(event, index) in events"
+            :event="event"
+            :key="index">
+        </event-item>
 	</div>
 </template>
 
@@ -20,7 +18,7 @@ export default {
     components: {
         "event-item": EventItem
     }
-}
+};
 
 </script>
 
