@@ -1,7 +1,7 @@
 <template>
     <header class="site-header">
          <div class="site-header__wrapper">
-            <img class="site-logo" alt="After Digital logo" src="@/assets/ad_logo.png" height="50">
+            <img class="site-logo" alt="After Digital logo" src="@/assets/ad_logo.png">
             <nav class="navbar">
             <ul>
                 <li><router-link to="/"><img alt="login" class="icon" src="@/assets/user.svg">Sign In</router-link></li>
@@ -22,7 +22,7 @@ export default {
 @import "@/assets/styles/variables.scss";
 
 .site-header {
-    height: 180px;
+    max-height: 180px;
     margin: 40px 20px;
 
     &__wrapper {
@@ -36,6 +36,8 @@ export default {
 
 .site-logo {
     margin-left: 20px;
+    max-height: 35px;
+    width: auto;
 }
 
 ul {  
@@ -47,12 +49,25 @@ ul {
 
     a {
         text-decoration: none;
+        color: inherit;
+        margin: 0.5rem
     }
 }
 
 .icon {
-    width: 2rem;
+    width: 1rem;
     height: auto;
+    margin-right: 0.5rem
+}
+
+@media (max-width: $mobile-width) {
+    .site-logo{
+        max-height: 25px;
+    }
+
+    ul li {
+        display: block;
+    }
 }
 
 </style>

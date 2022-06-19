@@ -27,6 +27,11 @@ body {
   font-size: 18px;
   margin-top: 10px;
   color: $black;
+
+  @media (max-width: $mobile-width) {
+      font-size: 14px;
+  }
 }
+
 
 </style>
