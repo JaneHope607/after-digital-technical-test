@@ -21,16 +21,6 @@ export default {
 <style lang="scss" scoped>
 @import "@/assets/styles/variables.scss";
 
-* {
-    box-sizing: border-box;
-}
-
-body {
-    font-family: 'Gill Sans', sans-serif;
-    font-size: 18px;
-    margin-top: 10px;
-}
-
 .site-header {
     height: 180px;
     margin: 40px 20px;
@@ -40,11 +30,24 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 20px;
   }
 }
 
 .site-logo {
     margin-left: 20px;
+}
+
+ul {  
+    list-style-type: none;
+
+    li {
+        display: inline;
+    }
+
+    a {
+        text-decoration: none;
+    }
 }
 
 .icon {
