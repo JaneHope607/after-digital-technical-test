@@ -6,14 +6,14 @@
 
 <script>
 
-import AppHeader from "@/components/AppHeader.vue";
-import EventList from "@/components/EventList.vue"
+import AppHeader from '@/components/AppHeader.vue'
+import EventList from '@/components/EventList.vue'
 
-import eventsData from "@/events.json";
+import eventsData from '@/events.json';
 let events = eventsData.data.getEvents
 
 export default {
-  name: "app",
+  name: 'app',
   components: {
     'app-header': AppHeader,
     'event-list': EventList,
@@ -60,7 +60,7 @@ export default {
 
 body {
   background-color: $main-background-colour;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
   margin-top: 10px;
   color: $black;

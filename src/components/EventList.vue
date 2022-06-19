@@ -10,17 +10,27 @@
 
 <script>
 
-import EventItem from "@/components/EventItem";
+import EventItem from '@/components/EventItem';
 
 export default {
-    name: "event-list",
-    props: ["events"],
+    name: 'event-list',
+    props: ['events'],
     components: {
-        "event-item": EventItem
+        'event-item': EventItem
     }
 };
 
 </script>
 
 <style lang="scss" scoped>
+
+.events-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    flex-direction: row;
+    width: 100%;
+    padding: 80px;
+}
+
 </style>
