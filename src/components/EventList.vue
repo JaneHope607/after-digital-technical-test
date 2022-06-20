@@ -27,7 +27,7 @@ export default {
 .events-wrapper {
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-between;
+    justify-content:space-around;
     flex-direction: row;
     width: 100%;
     padding: 80px;

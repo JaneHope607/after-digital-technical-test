@@ -32,6 +32,25 @@ export default {
 	},
 };
 
+function init() {
+  
+  var i = 0;
+  var items = document.querySelectorAll(".details");
+  var itemsHeight = [];  
+
+  for (i = 0; i < items.length; i++) {
+    itemsHeight.push(items[i].offsetHeight);
+  }
+  
+  var maxHeight = Math.max(...itemsHeight);
+
+  for (i = 0; i < items.length; i++) {
+    items[i].style.height = maxHeight + "px";
+  }
+}
+
+init();
+
 </script>
 
 <style lang="scss" scoped>
@@ -39,7 +58,17 @@ export default {
 .event {
 	flex-basis: 32%;
 	background-color: $white;
-	margin-bottom: 2%;
+	margin-bottom: 4%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	position: relative; 
+
+	@media (max-width: $desktop-width) {
+      flex-basis: 48%;
+ 	}
+
+	@media (max-width: $tablet-width) {
+      flex-basis: 90%;
+ 	}
 }
 
 .event-image {
@@ -56,16 +85,24 @@ export default {
 	margin: 20px;
 }
 
-.event-title, .event-date {
-	font-weight: bold;
+.event-title {
+	min-height: 110px;
+
+	.event-date {
+		font-weight: bold;
+	}
 }
 
 .event-description {
 	text-align: justify;
+	min-height: 250px;
 }
 
 .book-button { 
 	text-align: center;
+    position: absolute;
+	bottom: 20px;
+	width: 100%;
 
 	button {
 		background-color: $button-blue;
@@ -77,6 +114,7 @@ export default {
 		font-weight: bold;
 		border-radius: 3px;
 		border: none;
+
 	}
 }
 

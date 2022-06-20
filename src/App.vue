@@ -36,23 +36,7 @@ export default {
     getFilteredEvents(search) {
      this.filteredEvents = this.events.filter(event => event.title.toLowerCase().includes(search.toLowerCase()))
     }
-  },
-// // calling API
-  // methods: {
-  //   fetchData(){
-  //     fetch("https://t-bridge.s3.eu-west-1.amazonaws.com/events.json")
-  //       .then(response => response.json())
-  //       .then(events => this.events = events);
-  //   }
-  // },
-  // mounted() {
-  //   this.fetchData();
-  //   eventBus.$on("refresh-data", this.fetchData);
-  // },
-
-  // components: {
-  //   'event-list': EventList
-  // }
+  }
 };
 
 </script>
@@ -74,6 +58,10 @@ body {
   @media (max-width: $mobile-width) {
       font-size: 14px;
   }
+}
+
+h1 {
+  font-size: 2.5rem;
 }
 
 

@@ -1,13 +1,14 @@
 <template lang="html">
-    <div class="event-filter">
-        <input type="text" v-model="searchTerm" placeholder="Enter search terms here" v-on:keyup="onChange" />
-        <div class="item fruit" v-for="event in events" :key="event">
-            <p>{{ event.title }}</p>
+    <div class="event-search">
+        <h1>Search events</h1>
+        <div class="event-searchbar">
+            <form>
+                <label for="keyword">Keywords</label>
+                <input id="keyword" type="text" v-model="searchTerm" placeholder="Enter search terms here" v-on:keyup="onChange" />
+            </form>
         </div>
-        <!-- <div class="item error" v-if="input&&!filteredList().length">
-            <p>No results found!</p>
-        </div> -->
     </div>
+
 </template>
 
 <script>
@@ -20,33 +21,40 @@ export default {
     },
     name: 'event-filter',
     props: ['events'],
-    // methods: {
-    //     filteredEvents () {
-    //     let foundEvent = this.events.find((event) => {
-    //     return event.title.toLowerCase().indexOf(this.search.toLowerCase()) > -1
-    //   })
-
-
-    //   this.selectedEvent = foundEvent
-    //   this.$emit('event-selected', this.foundEvent)
-    //         // return this.events.filter((event) => event.title.toLowerCase().includes(this.searchTerm));
-    //     }
-    // },
-
     methods: {
         onChange() {
             this.$emit("search", this.searchTerm)
         }
     }
-
-    // methods: {
-    //     updateFilter(value) {
-    //         this.$emit('update-filter' , this.search)
-    //     }
-    // }
 }
 
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
+@import '@/assets/styles/variables.scss';
+
+.event-search {
+    margin: 0 80px;
+    .event-searchbar {
+        background-color: $white;
+
+        form {
+            text-align: center;
+            padding: 30px 0;
+
+            label {
+                margin: 0;
+            }
+
+            input {
+                width: 95%;
+                height: 60px;
+                border: 2px solid $main-background-colour;
+                padding: 15px;
+                margin: 15px;
+            }
+        }  
+    }
+}
+
 </style>
