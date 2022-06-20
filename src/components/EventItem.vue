@@ -29,7 +29,7 @@ export default {
 		formatDateTime(value) {
 			return moment(value).format("h:mm a | DD MMM YYYY");
 		}
-	}
+	},
 };
 
 </script>

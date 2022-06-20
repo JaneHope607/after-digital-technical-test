@@ -1,37 +1,43 @@
 <template>
   <app-header />
   <router-view/>
-  <event-list :events="events"/>
+  <!-- <event-filter :events="events"/> -->
+  <event-filter @search="getFilteredEvents($event)"/>
+  <event-list :events="filteredEvents"/>
 </template>
 
 <script>
 
 import AppHeader from '@/components/AppHeader.vue'
+import EventFilter from '@/components/EventFilter.vue'
 import EventList from '@/components/EventList.vue'
 
 import eventsData from '@/events.json';
-let events = eventsData.data.getEvents
+import { EventEmitter } from 'events';
+
+// let events = eventsData.data.getEvents
 
 export default {
   name: 'app',
   components: {
     'app-header': AppHeader,
     'event-list': EventList,
+    'event-filter': EventFilter
   },
 
   data () {
     return {
-      events: events
-    };
+      events: eventsData.data.getEvents,
+      filteredEvents : eventsData.data.getEvents
+    }
   },
 
-  // data () {
-  //   return {
-  //     events: []
-  //   }
-  // },
-
-  // // calling API
+  methods: {
+    getFilteredEvents(search) {
+     this.filteredEvents = this.events.filter(event => event.title.toLowerCase().includes(search.toLowerCase()))
+    }
+  },
+// // calling API
   // methods: {
   //   fetchData(){
   //     fetch("https://t-bridge.s3.eu-west-1.amazonaws.com/events.json")
