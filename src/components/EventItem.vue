@@ -1,9 +1,9 @@
 <template lang="html">
 	<div class="event">
 		<div class="event-image">
-			<event-image :imageUrl="event.images.cta"></event-image>
+			<event-image :imageUrl="event.images.original"></event-image>
 		</div>
-		<div class="details">
+		<div class="event-details">
 			<h2 class="event-title" v-html="event.title"></h2>
 			<p class="event-date">{{ formatDateTime(event.instances[0].date_time) }}</p>
 			<div class="event-description" v-html="event.short_description"></div>
@@ -32,24 +32,24 @@ export default {
 	},
 };
 
-function init() {
+// function init() {
   
-  var i = 0;
-  var items = document.querySelectorAll(".details");
-  var itemsHeight = [];  
+//   var i = 0;
+//   var items = document.querySelectorAll(".event-details");
+//   var itemsHeight = [];  
 
-  for (i = 0; i < items.length; i++) {
-    itemsHeight.push(items[i].offsetHeight);
-  }
+//   for (i = 0; i < items.length; i++) {
+//     itemsHeight.push(items[i].offsetHeight);
+//   }
   
-  var maxHeight = Math.max(...itemsHeight);
+//   var maxHeight = Math.max(...itemsHeight);
 
-  for (i = 0; i < items.length; i++) {
-    items[i].style.height = maxHeight + "px";
-  }
-}
+//   for (i = 0; i < items.length; i++) {
+//     items[i].style.height = maxHeight + "px";
+//   }
+// }
 
-init();
+// init();
 
 </script>
 
@@ -81,12 +81,12 @@ init();
 	}
 }
 
-.details {
+.event-details {
 	margin: 20px;
-}
 
-.event-title {
-	min-height: 110px;
+	.event-title {
+		min-height: 80px;
+	}
 
 	.event-date {
 		font-weight: bold;
@@ -95,13 +95,12 @@ init();
 
 .event-description {
 	text-align: justify;
-	min-height: 250px;
+	min-height: 180px;
 }
 
 .book-button { 
 	text-align: center;
-    position: absolute;
-	bottom: 20px;
+	margin-bottom: 20px;
 	width: 100%;
 
 	button {
@@ -114,7 +113,12 @@ init();
 		font-weight: bold;
 		border-radius: 3px;
 		border: none;
+		font-size: 1rem;
+	}
 
+	button:hover {
+		cursor: pointer;
+		background-color: $button-hover-blue;
 	}
 }
 

@@ -35,7 +35,7 @@ export default {
 }
 
 .site-logo {
-    margin-left: 20px;
+    margin-left: 60px;
     max-height: 35px;
     width: auto;
 }

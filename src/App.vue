@@ -13,7 +13,6 @@ import EventFilter from '@/components/EventFilter.vue'
 import EventList from '@/components/EventList.vue'
 
 import eventsData from '@/events.json';
-import { EventEmitter } from 'events';
 
 // let events = eventsData.data.getEvents
 

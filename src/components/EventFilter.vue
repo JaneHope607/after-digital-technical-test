@@ -39,19 +39,34 @@ export default {
         background-color: $white;
 
         form {
-            text-align: center;
             padding: 30px 0;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
 
             label {
-                margin: 0;
+                margin: 0 20px;
+                font-weight: 600;
+                font-size: 1.4rem;
             }
 
             input {
+                font-size: 1rem;
                 width: 95%;
                 height: 60px;
                 border: 2px solid $main-background-colour;
-                padding: 15px;
-                margin: 15px;
+                padding: 10px 50px 10px 15px;
+                margin: 20px;
+                border-radius: 3px;
+                background-image: url('@/assets/search.png');
+                background-repeat: no-repeat;
+                background-position: 98% center;
+                background-size: 30px;
+                flex-grow: 1;
+            }
+
+            input[type="text"]:focus {
+                outline : none;
             }
         }  
     }
