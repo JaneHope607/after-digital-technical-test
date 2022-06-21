@@ -4,9 +4,9 @@
 			<h2 class="event-title" v-html="event.title"></h2>
 				<p class="event-date">{{ formatDateTime(event.instances[0].date_time) }}</p>
 				<div class="event-description" v-html="event.short_description"></div>
-			<div class="event-button-container">
-				<button class="book-button" v-on:click="">Book now</button>
-			</div>
+				<div class="event-button-container">
+					<button class="book-button" v-on:click="">Book now</button>
+				</div>
 		</div>
 </template>
 
@@ -25,27 +25,8 @@ export default {
 		formatDateTime(value) {
 			return moment(value).format("h:mm a | DD MMM YYYY");
 		}
-	},
+	}
 };
-
-// function init() {
-  
-//   var i = 0;
-//   var items = document.querySelectorAll(".event-details");
-//   var itemsHeight = [];  
-
-//   for (i = 0; i < items.length; i++) {
-//     itemsHeight.push(items[i].offsetHeight);
-//   }
-  
-//   var maxHeight = Math.max(...itemsHeight);
-
-//   for (i = 0; i < items.length; i++) {
-//     items[i].style.height = maxHeight + "px";
-//   }
-// }
-
-// init();
 
 </script>
 
@@ -67,48 +48,57 @@ export default {
  	}
 
 	@media (max-width: $tablet-width) {
-      flex-basis: 90%;
+      flex-basis: 98%;
  	}
-}
 
-.event-image {
-	height: 250px;
-	object-fit: cover;
-	width: 100%;
-}
+	.event-image {
+		height: 250px;
+		object-fit: cover;
+		width: 100%;
+	}
 
-.event-title {
-	min-height: 80px;
-}
+	.event-title {
+		min-height: 110px;
 
-.event-date {
-	font-weight: bold;
-}
+		@media (max-width: $tablet-width) {
+			min-height: 60px;
+		}
+	}
 
-.event-description {
-	text-align: justify;
-	min-height: 180px;
-}
-
-.event-button-container {
-	text-align: center;
-}
-.book-button {
-		background-color: $button-blue;
-		height: 60px;
-		width: 95%;
-		text-align: center;
-		color: $white;
+	.event-date {
 		font-weight: bold;
-		border-radius: 3px;
-		border: none;
-		font-size: 1rem;
-		margin-bottom: 20px;
-}
+	}
+
+	.event-description {
+		text-align: justify;
+		min-height: 200px;
+
+		@media (max-width: $tablet-width) {
+			min-height: 100px;
+		}
+	}
+
+	.event-button-container {
+		text-align: center;
+		padding-top: 5px;
+	}
+	.book-button {
+			background-color: $button-blue;
+			height: 60px;
+			width: 95%;
+			text-align: center;
+			color: $white;
+			font-weight: bold;
+			border-radius: 3px;
+			border: none;
+			font-size: 1rem;
+			margin-bottom: 20px;
+	}
 
 	.book-button:hover {
 		cursor: pointer;
 		background-color: $button-hover-blue;
 	}
+}
 
 </style>

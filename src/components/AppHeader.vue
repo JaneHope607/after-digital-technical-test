@@ -3,10 +3,10 @@
          <div class="site-header__wrapper">
             <img class="site-logo" alt="After Digital logo" src="@/assets/ad_logo.png">
             <nav class="navbar">
-            <ul>
-                <li><router-link to="/"><img alt="login" class="icon" src="@/assets/user.svg">Sign In</router-link></li>
-                <li><router-link to="/"><img alt="basket" class="icon" src="@/assets/basket.svg">Basket</router-link></li>
-            </ul>
+                <ul>
+                    <li><router-link to="/"><img alt="login" class="icon" src="@/assets/user.svg">Sign In</router-link></li>
+                    <li><router-link to="/"><img alt="basket" class="icon" src="@/assets/basket.svg">Basket</router-link></li>
+                </ul>
             </nav>
         </div>
     </header>
@@ -25,17 +25,25 @@ export default {
     max-height: 180px;
     margin: 40px 20px;
 
+    @media (max-width: $tablet-width) {
+        margin: 20px 10px;
+ 	}
+
     &__wrapper {
     background-color: $white;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+
+    @media (max-width: $tablet-width) {
+        padding: 5%;
+ 	}
   }
 }
 
 .site-logo {
-    margin-left: 60px;
+    margin-left: 5%;
     max-height: 35px;
     width: auto;
 }

@@ -1,7 +1,6 @@
 <template>
   <app-header />
-  <router-view/>
-  <!-- <event-filter :events="events"/> -->
+    <router-view/>
   <event-filter @search="getFilteredEvents($event)"/>
   <event-list :events="filteredEvents"/>
 </template>
@@ -13,8 +12,6 @@ import EventFilter from '@/components/EventFilter.vue'
 import EventList from '@/components/EventList.vue'
 
 import eventsData from '@/events.json';
-
-// let events = eventsData.data.getEvents
 
 export default {
   name: 'app',
@@ -54,13 +51,17 @@ body {
   margin-top: 10px;
   color: $black;
 
-  @media (max-width: $mobile-width) {
-      font-size: 14px;
+  @media (max-width: $tablet-width) {
+    font-size: 16px;
   }
 }
 
 h1 {
   font-size: 2.5rem;
+
+  @media (max-width: $tablet-width) {
+    font-size: 2rem;
+  }
 }
 
 

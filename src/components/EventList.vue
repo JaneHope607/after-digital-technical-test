@@ -23,6 +23,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import '@/assets/styles/variables.scss';
 
 .events-wrapper {
     display: flex;
@@ -31,6 +32,14 @@ export default {
     flex-direction: row;
     width: 100%;
     padding: 80px;
+
+    @media (max-width: $desktop-width) {
+        padding: 60px
+ 	}
+
+	@media (max-width: $tablet-width) {
+        padding: 20px;
+ 	}
 }
 
 </style>

@@ -3,8 +3,8 @@
         <h1>Search events</h1>
         <div class="event-searchbar">
             <form>
-                <label for="keyword">Keywords</label>
-                <input id="keyword" type="text" v-model="searchTerm" placeholder="Enter search terms here" v-on:keyup="onChange" />
+                <label class="event-search-label" for="keyword">Keywords</label>
+                <input class="event-search-input" id="keyword" type="text" v-model="searchTerm" placeholder="Enter search terms here" v-on:keyup="onChange" />
             </form>
         </div>
     </div>
@@ -16,7 +16,7 @@
 export default {
     data() {
         return {
-            "searchTerm": ''
+            'searchTerm': ''
         };
     },
     name: 'event-filter',
@@ -34,7 +34,16 @@ export default {
 @import '@/assets/styles/variables.scss';
 
 .event-search {
-    margin: 0 80px;
+    padding: 0 80px;
+
+    @media (max-width: $desktop-width) {
+        padding: 0 60px
+ 	}
+
+	@media (max-width: $tablet-width) {
+        padding: 0 20px;
+ 	}
+
     .event-searchbar {
         background-color: $white;
 
@@ -44,13 +53,12 @@ export default {
             flex-wrap: wrap;
             align-items: center;
 
-            label {
+            .event-search-label {
                 margin: 0 20px;
                 font-weight: 600;
                 font-size: 1.4rem;
             }
-
-            input {
+            .event-search-input {
                 font-size: 1rem;
                 width: 95%;
                 height: 60px;
