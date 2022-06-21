@@ -2,9 +2,9 @@
 
 ### How to run the application
 
+* Clone this repository 
 * npm install
 * npm run serve
-* Packes to install: 
 
 ### The brief 
 
